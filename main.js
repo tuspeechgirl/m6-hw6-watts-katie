@@ -62,3 +62,18 @@ challenge4.appendChild(newElement);
 }
 //calls the function to occur onclick//
 challenge4.onclick=numberFour;
+
+
+//JS V//
+var x= document.querySelector('.card-1');
+var y= document.querySelector('.card-2');
+var z= document.querySelector('.card-3');
+x.addEventListener("click", function(){
+document.querySelector(".btn").style.display = "inline"
+      ; });
+y.addEventListener("click", function(){
+document.querySelector(".btn").style.display = "inline"
+        ; });
+z.addEventListener("click", function(){
+document.querySelector(".btn").style.display = "inline"
+            ; });
