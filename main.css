@@ -15,5 +15,12 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
  }
  .jumbotron{
 	  background-color: #7E15BF;
-
+ }
+ .subtitle h4{
+	 text-align: center;
+	 text-transform: uppercase;
+	 color: #7E15BF;
+	 font-family: 'Roboto', sans-serif;
+	 font-size: 1.2em;
+	 font-weight: bold;
  }
